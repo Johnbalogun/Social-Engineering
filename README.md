@@ -4,7 +4,7 @@
  ### [YouTube Demonstration Coming Soon](https://youtu.be)
 
 <h2>Description</h2>
-I have been allocated a number of emails to investigate. The job is to identify whether the emails are malicious or safe.
+In this project i was allocated a number of emails to investigate. The job was to identify whether the emails were malicious or safe. Below are some of the emails and my findings.
 <br />
 
 <h2> walk-through:</h2>
