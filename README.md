@@ -13,27 +13,26 @@ I have been allocated a number of emails to investigate. The job is to identify 
 
  
 Email 1 : <br/>
-<img src="https://imgur.com/YTA3xYz.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/hYKj3vJ.jpeg" height="80%" width="80%" alt=""/>
+
 <br /> Email 2: 
 <br />
-
-
-<img src="https://imgur.com/5jE0SCy.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/jrf6lap.jpeg" height="80%" width="80%" alt=""/>
 
 Email 3: <br/>
-<img src="https://imgur.com/cv74TNR.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/kX5UNE3.jpg" height="80%" width="80%" alt=""/>
 <br />
 
- 
 Email 4:  <br/>
-<img src="https://imgur.com/jCNzNJS.png" height="80%" width="80%" alt=""/>
-<br />Email 5.
+<img src="https://i.imgur.com/zqRhFNV.jpg" height="80%" width="80%" alt=""/>
+
+<br />Email 5 (SAFE).
 <br />
-<img src="https://imgur.com/8mAMBN4.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/MiNp12i.jpg" height="80%" width="80%" alt=""/>
+
 <br /> Email 6 
 <br />
-
-<img src="https://imgur.com/rJJ2HCo.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/72p8qtn.jpg" height="80%" width="80%" alt=""/>
 
 
 
